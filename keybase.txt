@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kgame
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kgame.tw
+  * I am kgame (https://keybase.io/kgame) on keybase.
+  * I have a public key ASAll5JCVUvS-xZUS9ATIKaKr36e3Puv8TRzfMllaXzB1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d12bfeb33525fa7cfbf0cb8ac7502ab74738ec8e9f58197f4f376f6d3992ae810a",
+      "host": "keybase.io",
+      "kid": "012025979242554bd2fb16544bd01320a68aaf7e9edcfbaff134737cc965697cc1d50a",
+      "uid": "3b9133f13e559a36a9abccb5f7a0f419",
+      "username": "kgame"
+    },
+    "merkle_root": {
+      "ctime": 1554411567,
+      "hash": "f0b88b9b6fbbb13539581800f1b28cb150d22895f48ef74c30a7162f36ceebea087da892a119db39683b63288339bbc18ad217394f3852e593af7927e372ee4e",
+      "hash_meta": "0031055267dc369318a5243a7882a7e5a82ca5bd42155ce044971c2b10c7b634",
+      "seqno": 5098206
+    },
+    "service": {
+      "entropy": "IUNSCnGLCpCwcLINqVoVpdxT",
+      "hostname": "kgame.tw",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554411584,
+  "expire_in": 504576000,
+  "prev": "2cd0f6db8efc13c9b1b329c4a070cad80df2e7dc2db2aef7886ed1d338ceb493",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJZeSQlVL0vsWVEvQEyCmiq9+ntz7r/E0c3zJZWl8wdUKp3BheWxvYWTESpcCJMQgLND22478E8mxsynEoHDK2A3y59wtsq73iG7R0zjOtJPEIB5zoCFUW1PPWlnQea/OroCto6fZt6vGOegK0keUhtJ3AgHCo3NpZ8RAuWBKp08t3sorJLKPJM+1zE1iewp4SgysqBFPMegTbMqr2URDmNy3i5GoueWvZSa4q/5yYGEuz3tfFY4yCLj9D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBm5Zth9RJLIC5ZqMkJ86Vv2pl8w60BDR6MZhIG3Pgx1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kgame
+
+==================================================================
