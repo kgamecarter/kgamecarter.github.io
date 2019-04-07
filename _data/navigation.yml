@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "分類"
+     url: /categories/
    - title: "關於"
      url: /about/
   # - title: "Sample Posts"
