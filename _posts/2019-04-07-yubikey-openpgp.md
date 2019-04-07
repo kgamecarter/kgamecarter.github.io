@@ -8,6 +8,9 @@ tag:
   - openpgp
   - gpg
 toc: true
+header:
+  teaser: /assets/images/yubikey-openpgp-1.png
+  og_image: /assets/images/yubikey-openpgp-1.png
 ---
 本篇文章記錄如何在 Windows 下使用 YubkiKey 搭配 GnuPG 工具，在 Yubikey 上建立金鑰對並儲存備份，以及如何將備份還原至 YubiKey 之中。
 
@@ -25,6 +28,7 @@ toc: true
 ## 操作步驟
 ### 建立金鑰對及備份私鑰
 1. 開啟 Kleopatra > 工具(T) > Manage Smartcards
+![/yubikey-openpgp-1](/assets/images/yubikey-openpgp-1.png)
 2. 修改 Cardholder 成自己的名字
 3. 使用 Change PIN 修改 PIN 碼，預設值 123456
 4. 使用 Change Admin PIN 修改管理 PIN 碼，預設值 12345678
