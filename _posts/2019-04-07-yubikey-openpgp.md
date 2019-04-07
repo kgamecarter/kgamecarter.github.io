@@ -2,6 +2,7 @@
 title:  "使用 Yubikey 儲存 OpenPGP 私鑰"
 date:   2019-04-07 15:13:00 +0800
 categories:
+  - GnuPG
   - yubikey
 tag:
   - yubikey
