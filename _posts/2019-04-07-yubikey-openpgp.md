@@ -68,4 +68,3 @@ header:
 
 ## 參考資料
 - [Using Your YubiKey with OpenPGP](https://support.yubico.com/support/solutions/articles/15000006420-using-your-yubikey-with-openpgp)
-- [How to import backed up](https://support.nitrokey.com/t/how-to-import-backed-up-encryption-key-sk-id-gpg/868)
