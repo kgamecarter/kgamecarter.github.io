@@ -57,6 +57,11 @@ header:
 ![11](https://blob.kgame.tw/blog/2019-04-07-yubikey-openpgp/11.png)
 
 ### 移動私鑰至 Yubikey
+1. 開啟 cmd 輸入 `gpg --expert --edit-key <keyid>` Enter
+2. 輸入 `keytocard` Enter，輸入 `y` Enter，輸入 `1` Enter，輸入金鑰保護密碼，完成移動 Signature Key
+3. 輸入 `key 1` Enter，輸入 `keytocard` Enter，輸入 `2` Enter，輸入金鑰保護密碼，完成移動 Encryption Key
+4. 輸入 `key 1` Enter，輸入 `key 2` Enter，輸入 `keytocard` Enter，輸入 `3` Enter，輸入金鑰保護密碼，完成移動 Authentication Key
+5. 輸入 `save` Enter 儲存，此時私鑰已不在電腦裡了
 
 ### 在新電腦載入金鑰
 有兩種方法擇一即可
