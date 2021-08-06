@@ -4,6 +4,8 @@ main:
      url: /categories/
    - title: "關於"
      url: /about/
+   - title: "友善連結"
+     url: /friendly/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
